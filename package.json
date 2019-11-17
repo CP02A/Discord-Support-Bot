@@ -1,0 +1,23 @@
+{
+  "name": "discord-support-bot",
+  "version": "1.0.0",
+  "description": "This repository is for a discord bot that makes support channels",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CP02A/Discord-Support-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CP02A/Discord-Support-Bot/issues"
+  },
+  "homepage": "https://github.com/CP02A/Discord-Support-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0"
+  }
+}
